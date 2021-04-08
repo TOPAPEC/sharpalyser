@@ -1,0 +1,5 @@
+Nuget: 
+1. LiveCharts.0.9.7
+2. LiveCharts.WinForms.0.9.7.1
+3. LiveCharts.Wpf.0.9.7
+4. MathNet.Numerics.4.15.0
